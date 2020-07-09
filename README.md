@@ -60,6 +60,10 @@ This policy is effective as of 2020-07-13
 ---------
 <b id="terms">Terms & Conditions</b>
 
+<div style="float: right; text-align: center" title="Click to buy books by Srila Prabhupada">
+  <a href="https://amzn.to/2ALVT7e"><img src="https://images-na.ssl-images-amazon.com/images/I/81HR0LQ5ZmL.SR160,240_BG243,243,243.jpg"><br>Buy Books by His Divine Grace <br>A. C. Bhaktivedanta Swami</a><br><br>
+  <a href="https://amzn.to/31Y4WNo">Explore more products and books</a>
+</div>
 By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. 
 
 Kṛṣṇa Apps is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
