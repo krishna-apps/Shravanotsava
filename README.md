@@ -1,7 +1,7 @@
 **Privacy Policy**
 
-<div style="float: right">
-  <a href="https://amzn.to/2ALVT7e"><img src="https://images-na.ssl-images-amazon.com/images/I/81HR0LQ5ZmL.SR160,240_BG243,243,243.jpg"><br>Buy Books by His Divine Grace A. C. Bhaktivedanta Swami</a><br><br>
+<div style="float: right; text-align: center">
+  <a href="https://amzn.to/2ALVT7e"><img src="https://images-na.ssl-images-amazon.com/images/I/81HR0LQ5ZmL.SR160,240_BG243,243,243.jpg"><br>Buy Books by His Divine Grace <br>A. C. Bhaktivedanta Swami</a><br><br>
   <a href="https://amzn.to/31Y4WNo">Explore more products and books</a>
 </div>
 Kṛṣṇa Apps built the Śravaṇotsava app as a Free app. This SERVICE is provided by Kṛṣṇa Apps at no cost and is intended for use as is. We will try our best to resolve your queries or include features that you may request, however, no support or assistance or assurance of any kind related to functionality and availibility of app is guarenteed.
